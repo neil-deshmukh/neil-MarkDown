@@ -37,6 +37,12 @@ As a frontend developer, I know that it's important to focus on the user experie
 
 Although I know there's a lot to learn, I'm always eager to explore new ideas and try out new things. I know that making mistakes is part of the learning process, and I'm not afraid to make them as I continue to practice and improve my skills.
 
+### My skills
+
+| Name | computer | language | general |
+| ---- | -------- | -------- | ------- |
+| Neil Deshmukh | JavaScript | English | games |
+
 I'm excited to see where my frontend development journey takes me, and I'm grateful for the opportunity to learn and grow in this field.
 
 [![Alt](https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)](https://neils-portfolio.netlify.app)
