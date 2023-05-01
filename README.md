@@ -40,7 +40,7 @@ Although I know there's a lot to learn, I'm always eager to explore new ideas an
 ### My skills
 
 | Name | computer | language | general |
-| ---- | -------- | -------- | ------- |
+| ---- | ---- | -------- | ------- |
 | Neil Deshmukh | JavaScript | English | games |
 
 I'm excited to see where my frontend development journey takes me, and I'm grateful for the opportunity to learn and grow in this field.
