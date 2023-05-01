@@ -1,5 +1,5 @@
 # 💡 Google Keep on scrimba
-___
+
 I received challenging assignment on **Scrimba**. The task was to clone the behaviour and the functionality of __Google Keep__.
 
 In this post I will outline the _tasks_ that I was required to do:
